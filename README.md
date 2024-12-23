@@ -23,4 +23,4 @@ The project includes:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/SARS-CoV-2-Sequence-Analysis.git
+   git clone https://github.com/carlosagalicia/SARS-CoV-2-Sequence-Analysis.git
